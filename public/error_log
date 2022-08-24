@@ -1,0 +1,130 @@
+[28-Jul-2022 05:34:52 UTC] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/tahspvqp/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/tahspvqp/public_html/vendor/composer/ClassLoader.php(571): include()
+#1 /home/tahspvqp/public_html/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile('/home/tahspvqp/...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/tahspvqp/public_html/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/tahspvqp/public_html/vendor/composer/ClassLoader.php(571): include('/home/tahspvqp/...')
+#5 /home/tahspvqp/public_html/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile('/home/tahspvqp/...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/tahspvqp/public_html/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): spl_autoload_call('Ill in /home/tahspvqp/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[28-Jul-2022 05:34:53 UTC] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/tahspvqp/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/tahspvqp/public_html/vendor/composer/ClassLoader.php(571): include()
+#1 /home/tahspvqp/public_html/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile('/home/tahspvqp/...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/tahspvqp/public_html/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/tahspvqp/public_html/vendor/composer/ClassLoader.php(571): include('/home/tahspvqp/...')
+#5 /home/tahspvqp/public_html/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile('/home/tahspvqp/...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/tahspvqp/public_html/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): spl_autoload_call('Ill in /home/tahspvqp/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[28-Jul-2022 05:34:54 UTC] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/tahspvqp/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/tahspvqp/public_html/vendor/composer/ClassLoader.php(571): include()
+#1 /home/tahspvqp/public_html/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile('/home/tahspvqp/...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/tahspvqp/public_html/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/tahspvqp/public_html/vendor/composer/ClassLoader.php(571): include('/home/tahspvqp/...')
+#5 /home/tahspvqp/public_html/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile('/home/tahspvqp/...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/tahspvqp/public_html/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): spl_autoload_call('Ill in /home/tahspvqp/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[28-Jul-2022 05:34:55 UTC] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/tahspvqp/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/tahspvqp/public_html/vendor/composer/ClassLoader.php(571): include()
+#1 /home/tahspvqp/public_html/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile('/home/tahspvqp/...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/tahspvqp/public_html/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/tahspvqp/public_html/vendor/composer/ClassLoader.php(571): include('/home/tahspvqp/...')
+#5 /home/tahspvqp/public_html/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile('/home/tahspvqp/...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/tahspvqp/public_html/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): spl_autoload_call('Ill in /home/tahspvqp/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[28-Jul-2022 05:50:46 UTC] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/tahspvqp/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/tahspvqp/public_html/vendor/composer/ClassLoader.php(571): include()
+#1 /home/tahspvqp/public_html/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile('/home/tahspvqp/...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/tahspvqp/public_html/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/tahspvqp/public_html/vendor/composer/ClassLoader.php(571): include('/home/tahspvqp/...')
+#5 /home/tahspvqp/public_html/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile('/home/tahspvqp/...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/tahspvqp/public_html/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): spl_autoload_call('Ill in /home/tahspvqp/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[28-Jul-2022 05:56:01 UTC] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/tahspvqp/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/tahspvqp/public_html/vendor/composer/ClassLoader.php(571): include()
+#1 /home/tahspvqp/public_html/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile('/home/tahspvqp/...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/tahspvqp/public_html/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/tahspvqp/public_html/vendor/composer/ClassLoader.php(571): include('/home/tahspvqp/...')
+#5 /home/tahspvqp/public_html/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile('/home/tahspvqp/...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/tahspvqp/public_html/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): spl_autoload_call('Ill in /home/tahspvqp/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[28-Jul-2022 05:56:03 UTC] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/tahspvqp/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/tahspvqp/public_html/vendor/composer/ClassLoader.php(571): include()
+#1 /home/tahspvqp/public_html/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile('/home/tahspvqp/...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/tahspvqp/public_html/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/tahspvqp/public_html/vendor/composer/ClassLoader.php(571): include('/home/tahspvqp/...')
+#5 /home/tahspvqp/public_html/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile('/home/tahspvqp/...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/tahspvqp/public_html/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): spl_autoload_call('Ill in /home/tahspvqp/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[28-Jul-2022 05:56:54 UTC] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/tahspvqp/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/tahspvqp/public_html/vendor/composer/ClassLoader.php(571): include()
+#1 /home/tahspvqp/public_html/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile('/home/tahspvqp/...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/tahspvqp/public_html/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/tahspvqp/public_html/vendor/composer/ClassLoader.php(571): include('/home/tahspvqp/...')
+#5 /home/tahspvqp/public_html/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile('/home/tahspvqp/...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/tahspvqp/public_html/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): spl_autoload_call('Ill in /home/tahspvqp/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[28-Jul-2022 05:57:09 UTC] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/tahspvqp/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/tahspvqp/public_html/vendor/composer/ClassLoader.php(571): include()
+#1 /home/tahspvqp/public_html/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile('/home/tahspvqp/...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/tahspvqp/public_html/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/tahspvqp/public_html/vendor/composer/ClassLoader.php(571): include('/home/tahspvqp/...')
+#5 /home/tahspvqp/public_html/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile('/home/tahspvqp/...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/tahspvqp/public_html/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): spl_autoload_call('Ill in /home/tahspvqp/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[28-Jul-2022 05:57:10 UTC] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/tahspvqp/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/tahspvqp/public_html/vendor/composer/ClassLoader.php(571): include()
+#1 /home/tahspvqp/public_html/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile('/home/tahspvqp/...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/tahspvqp/public_html/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/tahspvqp/public_html/vendor/composer/ClassLoader.php(571): include('/home/tahspvqp/...')
+#5 /home/tahspvqp/public_html/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile('/home/tahspvqp/...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/tahspvqp/public_html/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): spl_autoload_call('Ill in /home/tahspvqp/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[28-Jul-2022 05:57:11 UTC] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/tahspvqp/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/tahspvqp/public_html/vendor/composer/ClassLoader.php(571): include()
+#1 /home/tahspvqp/public_html/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile('/home/tahspvqp/...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/tahspvqp/public_html/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/tahspvqp/public_html/vendor/composer/ClassLoader.php(571): include('/home/tahspvqp/...')
+#5 /home/tahspvqp/public_html/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile('/home/tahspvqp/...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/tahspvqp/public_html/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): spl_autoload_call('Ill in /home/tahspvqp/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[28-Jul-2022 05:57:12 UTC] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/tahspvqp/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/tahspvqp/public_html/vendor/composer/ClassLoader.php(571): include()
+#1 /home/tahspvqp/public_html/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile('/home/tahspvqp/...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/tahspvqp/public_html/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/tahspvqp/public_html/vendor/composer/ClassLoader.php(571): include('/home/tahspvqp/...')
+#5 /home/tahspvqp/public_html/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile('/home/tahspvqp/...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/tahspvqp/public_html/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): spl_autoload_call('Ill in /home/tahspvqp/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[28-Jul-2022 05:58:38 UTC] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/tahspvqp/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/tahspvqp/public_html/vendor/composer/ClassLoader.php(571): include()
+#1 /home/tahspvqp/public_html/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile('/home/tahspvqp/...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/tahspvqp/public_html/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/tahspvqp/public_html/vendor/composer/ClassLoader.php(571): include('/home/tahspvqp/...')
+#5 /home/tahspvqp/public_html/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile('/home/tahspvqp/...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/tahspvqp/public_html/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): spl_autoload_call('Ill in /home/tahspvqp/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
